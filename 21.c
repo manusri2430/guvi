@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main()
+void main()
 {
 int num;
 int flag,t;
@@ -23,5 +23,5 @@ if(flag==0)
 printf("num is power of 2");
 else
 printf("not power of 2");
-return 0;
+
 }
