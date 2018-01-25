@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(void) 
+void main
 {
 	int a,b,n;
 	printf("\nEnter the two numbers: ");
@@ -15,5 +15,5 @@ int main(void)
 	{
 		printf("\nThe sum is odd. ");
 	}
-	return 0;
+	
 }
