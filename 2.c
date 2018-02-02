@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<string.h>
-int main()
+void main()
 {
   char a[100],t;
   int l;
@@ -23,5 +23,5 @@ int main()
   {
     printf("%c",a[i]);
   }
- return 0;
+ 
 }
