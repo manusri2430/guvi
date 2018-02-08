@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main()
+void main()
 {
 int a[10],i,n,t,j,k;
 printf("enter the range\n");
@@ -23,5 +23,5 @@ a[j]=t;
 }
 }
 printf("%d",a[k-1]);
-return 0;
+
 }
